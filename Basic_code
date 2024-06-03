@@ -1,0 +1,33 @@
+# Variable and Data types
+name = "Shiuly"
+age = 23
+cgpa = 3.90
+print("Her name is " +name )
+print(name +" lives in Dhaka.")
+print("She is currently" ,age, "years old.")
+print("At the age of" ,age, ",she has started to learn ......")
+print(name +" has scored ",cgpa," in her secondary exam.")
+
+
+'''
+
+# \n ...This is blackslash
+
+print(" \'Hello\' " )
+print(" \"Hello\" " )
+
+print("Hello, This is me.  \t This is my phone number:90930819")
+
+print("Hello, This is me.  \n This is my phone number:90930819")
+
+# This is a comment!
+
+Hello,
+This is another comment section.
+Multiple line comment section.
+
+
+ｐrint("hello")
+
+ｐrint("１０・５")
+'''
